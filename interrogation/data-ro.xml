@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Interrogation</title>
+	<release-date>Vară 2017</release-date>
+	<website>http://critique-gaming.com/</website>
+	<press-can-request-copy>FALSE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>PC / Mac / Linux</name>
+		</platform>
+		<platform>
+			<name>Steam</name>
+		</platform>
+	</platforms>
+
+	<!-- <prices>
+		<price>
+			<currency>USD</currency>
+			<value>$1.99</value>
+		</price>
+		<price>
+			<currency>EUR</currency>
+			<value>€1.59</value>
+		</price>
+		<price>
+			<currency>CAD</currency>
+			<value>$1.99</value>
+		</price>
+		<price>
+			<currency>GBP</currency>
+			<value>£1.29</value>
+		</price>
+	</prices> -->
+
+	<description>
+	Interrogation este un joc video pe bază de narațiune care emuleaza atmosfera si tonul poveștilor polițiste în stilul “noire”, punând jucătorul în rolul detectivului și provocându-le prejudecățile cu intensitate. Jocul imită tipicul scenelor de interogare din cultura pop oferind în același timp și oportunitatea de deconstrucție a acestora. În practică jocul este un puzzle contra timp (5 minute) în care jucătorii trebuie să manipuleze emoțiile suspecților punând întrebări și încercând să obțină răspunsuri care îi duc mai aproape de a afla detalii despre viitoare atacuri teroriste.
+	</description>
+
+	<history>
+	Interrogation s-a nascut la Amberjam 2016 la East European Comic-Con in Bucuresti. (Game jam-urile sunt competitii in care echipe cauta sa creeze un joc video de la zero in 24 de ore) Avand tematica data “Sub suprafata”, am decis sa o abordam metaforic, uitandu-ne sub suprafata oamenilor: ceea ce ei incearca sa ascunda. Stabilind asta dar si ca dorim sa facem un joc distractiv si captivant, solutia la care am ajuns a fost creerea unui joc de interogare: Puenrea jucatorului in scaunul inchizitorului care are de aflat raspunsuri rapid si trebuie sa decida ce rabat moral se poate face sau nu. Construirea de tensiune si atmosfera au fost cheie, precum si personajele cu nuante psihologice realiste.
+	</history>
+
+	<features>
+		<feature>Stil artistic “noire” și coloană sonoră originală care amplifică sentimentul de tensiune și astfel imersiunea în poveste a jucătorului</feature>
+		<feature>Puzzle pe bază de variabile (HP, frică, empatie, cruzime) care sunt influențate de dar și influențează ce întrebări și ce răspunsuri poate primi jucătorul</feature>
+		<feature>Liste de întrebări, Dosare personale, Tehnici “îmbunătățite” de interogare</feature>
+		<feature>Un număr de episoade cu complexitate și dificultate din ce în ce mai mari</feature>
+	</features>
+
+	<trailers>
+		<trailer>
+			<name>Prototype teaser trailer</name>
+			<youtube>_LsZoggH660</youtube>
+		</trailer>
+	</trailers>
+
+	<awards>
+		<award>
+			<description>Locul 2 la Indie Pitch.</description>
+			<info>Dev.Play, 20 Septembrie, 2016</info>
+		</award>
+	</awards>
+
+	<!-- <quotes>
+		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://</link>
+		</quote>
+	</quotes> -->
+
+	<additionals>
+		<additional>
+			<title>Dev.Play Pitch</title>
+			<description>O prezentare de 10-minute ținută de David despre conceptul și viitorul jocului.</description>
+			<link>https://drive.google.com/file/d/0B_LYXeVGf4gVWmpNd25FSjR0RW8/view</link>
+		</additional>
+		<additional>
+			<title>Prototip jucabil</title>
+			<description>Un prototip early-stage al Interrogation.</description>
+			<link>https://critique-gaming.itch.io/interrogation</link>
+		</additional>
+		<additional>
+			<title>Gameplay Video</title>
+			<description>Un video de gameplay brut, needitat.</description>
+			<link>https://drive.google.com/open?id=0B_LYXeVGf4gVdmdaSWI0NE12c3c</link>
+		</additional>
+		<additional>
+			<title>Garfică de joc și screenshot-uri</title>
+			<description>Mai multe screenshoturi și grafică de personaje.</description>
+			<link>https://drive.google.com/open?id=0B_LYXeVGf4gVTTFsWW5vam1lcTA</link>
+		</additional>
+	</additionals>
+
+	<credits>
+		<credit>
+			<person>Andrei “Dexter” Olaru</person>
+			<role>Producător, Marketing</role>
+			<website>https://www.linkedin.com/in/olaruandreidan</website>
+		</credit>
+		<credit>
+			<person>Marius Petcu</person>
+			<role>Game Developer</role>
+			<website>petcu.me</website>
+		</credit>
+		<credit>
+			<person>Dora Marian</person>
+			<role>Artă, Grafică</role>
+			<website>https://www.behance.net/DoraMarian</website>
+		</credit>
+		<credit>
+			<person>David Moscovici</person>
+			<role>Game Design, Writing</role>
+			<website>https://www.linkedin.com/in/david-moscovici-56794161</website>
+		</credit>
+		<credit>
+			<person>Dragoș “Dexi” Antoniu</person>
+			<role>Muzică, Sound Design</role>
+			<website>https://soundcloud.com/dexiantoniu</website>
+		</credit>
+	</credits>
+</game>

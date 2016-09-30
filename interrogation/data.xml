@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<game>
+	<title>Interrogation</title>
+	<release-date>Summer 2017</release-date>
+	<website>http://critique-gaming.com/</website>
+	<press-can-request-copy>FALSE</press-can-request-copy>
+
+	<platforms>
+		<platform>
+			<name>PC / Mac / Linux</name>
+		</platform>
+		<platform>
+			<name>Steam</name>
+		</platform>
+	</platforms>
+
+	<!-- <prices>
+		<price>
+			<currency>USD</currency>
+			<value>$1.99</value>
+		</price>
+		<price>
+			<currency>EUR</currency>
+			<value>€1.59</value>
+		</price>
+		<price>
+			<currency>CAD</currency>
+			<value>$1.99</value>
+		</price>
+		<price>
+			<currency>GBP</currency>
+			<value>£1.29</value>
+		</price>
+	</prices> -->
+
+	<description>
+	Interrogation is a narrative game that emulates the atmosphere of dark investigation procedurals to put the player in the detective’s seat and challenge their preconceptions with noire intensity. The game is intended to emulate the tropes related to interrogation scenes in pop-culture while also offering some deconstruction. It plays as a questions-based puzzle against a (5 minute) clock in which the player must manage the emotions of suspects and interpret information into discovering details about future terrorist attacks.
+	</description>
+
+	<history>
+	Interrogation came up at the Amberjam 2016, at the Eastern European Comic-Con in Bucharest. (Game Jams are competitions in which developers try to create a game from scratch within 24 hours). Given the theme “Under the surface”, we decided to take a metaphorical approach, and look under the surface of people: what people try to hide. Knowing that, and that we also want exciting and engaging gameplay, the solution we arrived to was making an interrogation game: Putting the player in the seat of the inquisitor that needs answers fast and that needs to decide what corners to cut. Building tension and atmosphere were key, as was having characters with realistic psychological nuance.
+	</history>
+
+	<features>
+		<feature>Noire art and custom soundtrack in increasingly heavier rhythm for deep immersion and tension</feature>
+		<feature>Variable-based puzzle system (HP, Fear, Empathy, Cruelty) that get built up in order to unlock new answers to questions and from that new questions</feature>
+		<feature>Question list, Briefing Files, "Enhanced" Interrogation</feature>
+		<feature>Successive Episodes in increasing complexity and difficulty</feature>
+	</features>
+
+	<trailers>
+		<trailer>
+			<name>Prototype teaser trailer</name>
+			<youtube>_LsZoggH660</youtube>
+		</trailer>
+	</trailers>
+
+	<awards>
+		<award>
+			<description>Indie Pitch runner-up.</description>
+			<info>Dev.Play, 20 September, 2016</info>
+		</award>
+		<award>
+			<description>Amber Jam runner-up.</description>
+			<info>East European Comic-Con, 29 May, 2016</info>
+		</award>
+	</awards>
+
+	<!-- <quotes>
+		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://</link>
+		</quote>
+	</quotes> -->
+
+	<additionals>
+		<additional>
+			<title>Dev.Play Pitch</title>
+			<description>A 10-minute presentation by David about the game's concept and roadmap.</description>
+			<link>https://drive.google.com/file/d/0B_LYXeVGf4gVWmpNd25FSjR0RW8/view</link>
+		</additional>
+		<additional>
+			<title>Playable Prototype</title>
+			<description>An early-stage playable prototype of the game.</description>
+			<link>https://critique-gaming.itch.io/interrogation</link>
+		</additional>
+		<additional>
+			<title>Gameplay Video</title>
+			<description>Some raw gameplay footage.</description>
+			<link>https://drive.google.com/open?id=0B_LYXeVGf4gVdmdaSWI0NE12c3c</link>
+		</additional>
+		<additional>
+			<title>Game graphics &amp; Screenshots</title>
+			<description>Additional screenshots and character graphics.</description>
+			<link>https://drive.google.com/open?id=0B_LYXeVGf4gVTTFsWW5vam1lcTA</link>
+		</additional>
+	</additionals>
+
+	<credits>
+		<credit>
+			<person>Andrei “Dexter” Olaru</person>
+			<role>Producer, Marketing</role>
+			<website>https://www.linkedin.com/in/olaruandreidan</website>
+		</credit>
+		<credit>
+			<person>Marius Petcu</person>
+			<role>Game Developer</role>
+			<website>petcu.me</website>
+		</credit>
+		<credit>
+			<person>Dora Marian</person>
+			<role>Art, Graphics</role>
+			<website>https://www.behance.net/DoraMarian</website>
+		</credit>
+		<credit>
+			<person>David Moscovici</person>
+			<role>Game Design, Writing</role>
+			<website>https://www.linkedin.com/in/david-moscovici-56794161</website>
+		</credit>
+		<credit>
+			<person>Dragoș “Dexi” Antoniu</person>
+			<role>Music, Sound Design</role>
+			<website>https://soundcloud.com/dexiantoniu</website>
+		</credit>
+	</credits>
+</game>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- example file containing base tags -->
+
+<game>
+	<title>Critique Gaming</title>
+	<founding-date>August 2, 2016</founding-date>
+	<website>https://critique-gaming.com</website>
+	<based-in>Bucharest, Romania</based-in>
+
+	<press-contact>office@critique-gaming.com</press-contact>
+	<phone>+40 732 444 934</phone>
+	<address>
+		<line>Intrarea Doctor Iacob Felix 59</line>
+		<line>Apt. 21, 5th floor</line>
+		<line>011042 Bucharest</line>
+	</address>
+
+	<socials>
+		<social>
+			<name>facebook.com/CritiqueGaming</name>
+			<link>facebook.com/CritiqueGaming</link>
+		</social>
+		<social>
+			<name>twitter.com/Critique_Gaming</name>
+			<link>twitter.com/Critique_Gaming</link>
+		</social>
+	</socials>
+
+	<description>
+		The Critique Gaming team is an eclectic squad consisting of five people with very different social and educational backgrounds, from law and economy to art and programming, with very diverse skillsets. We’ve gathered with the mission of making pointful games that explore important contemporary questions. After testing a few directions, we’re looking to moving on from amateur into professional independent game development with our Interrogation prototype.
+	</description>
+
+	<histories>
+		<history>
+			<header>Dexter</header>
+			<text>Andrei “Dexter” Olaru is the captain of Critique Gaming. An economist and career debater with international results, he’s the entrepreneurial spirit of the team, handling project and team management, wrangling needed resources.</text>
+		</history>
+		<history>
+			<header>Marius</header>
+			<text>Marius Petcu studies in the Bucharest Polytechnic. With artistic spirit and a background in debating, he’s the team’s programmer. He makes sure the abstract thoughts and ideas of the team take tangible form, supple and interactive on the player’s screen.</text>
+		</history>
+		<history>
+			<header>Dora</header>
+			<text>Dora Marian is a graduate of the National University of Arts, photographer, tasteful super-hipster and graphical artist of the team. She gives identity and visual form to all of the team’s creative content.</text>
+		</history>
+		<history>
+			<header>David</header>
+			<text>David Moscovici has a master’s degree in law, is grumpy, is a trainer and career debater and is the team’s game designer. He writes the narrative content, insures the balance and dynamics of game mechanics and handles the creative direction of the games.</text>
+		</history>
+		<history>
+			<header>Dexi</header>
+			<text>Dragos “Dexi” Antoniu is an economist but his soul is in music. Passionate about contemporary popular art, he creates the sounds and soundtracks for Critique Gaming.</text>
+		</history>
+	</histories>
+
+	<trailers>
+		<trailer>
+			<name>The prototype teaser trailer for Interrogation</name>
+			<youtube>_LsZoggH660</youtube>
+		</trailer>
+	</trailers>
+
+	<awards>
+		<award>
+			<description>Indie Pitch runner-up.</description>
+			<info>Dev.Play, 20 September, 2016</info>
+		</award>
+	</awards>
+
+	<!-- <quotes>
+		<quote>
+			<description>This is a rather insignificant quote by a highly important person.</description>
+			<name>Person Name</name>
+			<website>Website</website>
+			<link>http://www.website.com/</link>
+		</quote>
+		<quote>
+			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
+			<name>Some Guy</name>
+			<website>This Page Is Visited By 12 Visitors A Month</website>
+			<link>http://geocities.blog.com/</link>
+		</quote>
+		<quote>
+			<description>I pretend to love this game even though I do not actually understand it.</description>
+			<name>Pretentious Bastard</name>
+			<website>Artsy Page</website>
+			<link>http://art.tumblr.com/</link>
+		</quote>
+		<quote>
+			<description>HOLY SHIT SO AMAZING</description>
+			<name>Caps Guy</name>
+			<website>Angry Review</website>
+			<link>http://thispage.net/angrytube</link>
+		</quote>
+	</quotes> -->
+
+	<press-can-request-copy>TRUE</press-can-request-copy> <!-- can be true or false -->
+	<monetization-permission>monetize</monetization-permission> <!-- can be: 	false (no video allowed),
+																			 	ask (permission on case-per-case basis),
+																			 	non-commercial (no monetization allowed),
+																			 	monetize (full permission) -->
+	<additionals>
+		<additional>
+			<title>Additional team photos</title>
+			<description>Photos of us and our mascot at events or just generally together.</description>
+			<link>https://drive.google.com/drive/folders/0B_LYXeVGf4gVbUpwYVoxd2xIRGM</link>
+		</additional>
+		<additional>
+			<title>Company LinkedIn</title>
+			<description>Our company's LinkedIn page.</description>
+			<link>https://www.linkedin.com/company/critique-gaming</link>
+		</additional>
+	</additionals>
+
+	<credits>
+		<credit>
+			<person>Andrei “Dexter” Olaru</person>
+			<role>Producer, Marketing</role>
+			<website>https://www.linkedin.com/in/olaruandreidan</website>
+		</credit>
+		<credit>
+			<person>Marius Petcu</person>
+			<role>Game Developer</role>
+			<website>petcu.me</website>
+		</credit>
+		<credit>
+			<person>Dora Marian</person>
+			<role>Art, Graphics</role>
+			<website>https://www.behance.net/DoraMarian</website>
+		</credit>
+		<credit>
+			<person>David Moscovici</person>
+			<role>Game Design, Writing</role>
+			<website>https://www.linkedin.com/in/david-moscovici-56794161</website>
+		</credit>
+		<credit>
+			<person>Dragoș “Dexi” Antoniu</person>
+			<role>Music, Sound Design</role>
+			<website>https://soundcloud.com/dexiantoniu</website>
+		</credit>
+	</credits>
+
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>office@critique-gaming.com</mail>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>http://facebook.com/CritiqueGaming</link>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>http://twitter.com/Critique_Gaming</link>
+		</contact>
+		<contact>
+			<name>Web</name>
+			<link>critique-gaming.com</link>
+		</contact>
+	</contacts>
+</game>
