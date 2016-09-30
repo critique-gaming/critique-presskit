@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 
 <game>
 	<title>Interrogation</title>
@@ -39,12 +39,12 @@
 	</description>
 
 	<history>
-	Interrogation s-a nascut la Amberjam 2016 la East European Comic-Con in Bucuresti. (Game jam-urile sunt competitii in care echipe cauta sa creeze un joc video de la zero in 24 de ore) Avand tematica data “Sub suprafata”, am decis sa o abordam metaforic, uitandu-ne sub suprafata oamenilor: ceea ce ei incearca sa ascunda. Stabilind asta dar si ca dorim sa facem un joc distractiv si captivant, solutia la care am ajuns a fost creerea unui joc de interogare: Puenrea jucatorului in scaunul inchizitorului care are de aflat raspunsuri rapid si trebuie sa decida ce rabat moral se poate face sau nu. Construirea de tensiune si atmosfera au fost cheie, precum si personajele cu nuante psihologice realiste.
+	Interrogation s-a născut la Amberjam 2016 la East European Comic-Con în Bucuresti. (Game jam-urile sunt competiții în care echipe caută să creeze un joc video de la zero în 24 de ore) Având tematica dată “Sub suprafață”, am decis să o abordăm metaforic, uitându-ne sub suprafața oamenilor: ceea ce ei încearcă să ascundă. Stabilind asta dar și ca dorim să facem un joc distractiv și captivant, soluția la care am ajuns a fost creerea unui joc de interogare: Punerea jucătorului în scaunul închizitorului care are de aflat răspunsuri rapid și trebuie să decida ce rabat moral se poate face sau nu. Construirea de tensiune și atmosferă au fost cheie, precum și personajele cu nuanțe psihologice realiste.
 	</history>
 
 	<features>
 		<feature>Stil artistic “noire” și coloană sonoră originală care amplifică sentimentul de tensiune și astfel imersiunea în poveste a jucătorului</feature>
-		<feature>Puzzle pe bază de variabile (HP, frică, empatie, cruzime) care sunt influențate de dar și influențează ce întrebări și ce răspunsuri poate primi jucătorul</feature>
+		<feature>Puzzle pe bază de variabile (HP, frică, empatie, cruzime) care sunt influențate de, dar și influențează ce întrebări și ce răspunsuri poate primi jucătorul</feature>
 		<feature>Liste de întrebări, Dosare personale, Tehnici “îmbunătățite” de interogare</feature>
 		<feature>Un număr de episoade cu complexitate și dificultate din ce în ce mai mari</feature>
 	</features>

@@ -27,35 +27,35 @@
 	</socials>
 
 	<description>
-		Echipa Critique Gaming este un grup eclectic de cinci persoane cu fond social si educational foarte diferit, de la juristi si economisti la artisti si programatori, cu un set de abilitati foarte divers. Ne-am stabilit misiunea de a face jocuri cu mesaj si insemnatate care exploreaza intrebari importante contemporane. Dupa ce am testat cateva directii, cautam acum sa trecem de la dezvoltarea amatoare de jocuri la un regim profesional pentru a dezvolta prototipul nostru “Interrogation”.
+		Echipa Critique Gaming este un grup eclectic de cinci persoane cu fond social și educațional foarte diferit, de la juriști și economiști la artiști și programatori, cu un set de abilități foarte divers. Ne-am stabilit misiunea de a face jocuri cu mesaj și însemnătate care explorează întrebări importante contemporane. După ce am testat câteva direcții, căutăm acum să trecem de la dezvoltarea amatoare de jocuri la un regim profesional pentru a dezvolta prototipul nostru “Interrogation”.
 	</description>
 
 	<histories>
 		<history>
 			<header>Dexter</header>
-			<text>Andrei “Dexter” Olaru este capitanul Critique Gaming. Economist si debater de cariera cu rezultate internationale, el este spiritul antreprenorial al echipei, ocupandu-se de management-ul de proiect al echipei si de strunirea resurselor.</text>
+			<text>Andrei “Dexter” Olaru este căpitanul Critique Gaming. Economist și debater de carieră cu rezultate internaționale, el este spiritul antreprenorial al echipei, ocupându-se de management-ul de proiect al echipei și de strunirea resurselor.</text>
 		</history>
 		<history>
 			<header>Marius</header>
-			<text>Marius Petcu, politehnist cu spirit artistic si cu fond in dezbateri, este programatorul echipei. El face mirobolantele ganduri si idei ale echipei sa capete forma reala, supla si interactiva pe ecranele jucatorilor.</text>
+			<text>Marius Petcu, politehnist cu spirit artistic și cu fond în dezbateri, este programatorul echipei. El face mirobolantele gânduri și idei ale echipei să capete forma reală, suplă și interactivă pe ecranele jucătorilor.</text>
 		</history>
 		<history>
 			<header>Dora</header>
-			<text>Dora Marian este absolventa a UNArte, fotografa, hipstera cu gust si artista grafica a echipei. Ea da identitate si forma vizuala continutului creativ al echipei.</text>
+			<text>Dora Marian este absolventă a UNArte, fotografă, hipsteră cu gust și artistă grafică a echipei. Ea dă identitate și formă vizuală conținutului creativ al echipei.</text>
 		</history>
 		<history>
 			<header>David</header>
-			<text>David Moscovici este jurist, morocanos, trainer, debater de cariera si game designer-ul echipei. El scrie continutul narativ, se asigura de echilibrul si dinamica mecanicilor de joc si de regia creativa a jocurilor.</text>
+			<text>David Moscovici este jurist, morocănos, trainer, debater de carieră și game designer-ul echipei. El scrie conținutul narativ, se asigură de echilibrul și dinamica mecanicilor de joc și de regia creativă a jocurilor.</text>
 		</history>
 		<history>
 			<header>Dexi</header>
-			<text>Dragos “Dexi” Antoniu este economist, dar sufletul lui este in muzica. Pasionat de arta populara contemporana, el creeaza sunetele si coloanele sonora pentru Critique Gaming.</text>
+			<text>Dragoș “Dexi” Antoniu este economist, dar sufletul lui este în muzică. Pasionat de arta populară contemporană, el creează sunetele și coloanele sonore pentru Critique Gaming.</text>
 		</history>
 	</histories>
 
 	<trailers>
 		<trailer>
-			<name>Teaser trailer al pentru prototipul Interrogation</name>
+			<name>Teaser trailer al prototipului Interrogation</name>
 			<youtube>_LsZoggH660</youtube>
 		</trailer>
 	</trailers>
@@ -106,7 +106,7 @@
 			<link>https://drive.google.com/drive/folders/0B_LYXeVGf4gVbUpwYVoxd2xIRGM</link>
 		</additional>
 		<additional>
-			<title>LinkedIn-ul companier</title>
+			<title>LinkedIn-ul companiei</title>
 			<description>Pagina de LinkedIn a Critique Gaming.</description>
 			<link>https://www.linkedin.com/company/critique-gaming</link>
 		</additional>
