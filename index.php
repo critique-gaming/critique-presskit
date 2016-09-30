@@ -402,7 +402,7 @@ else
 				$result .= '<a href="//www.youtube.com/watch?v='.$youtube.'">YouTube</a>, ';
 			}
 			if( strlen( $vimeo ) > 0 ) {
-				$result .= '<a href="//www.vimeo.com/'.$vimeo.'">Vimeo</a>, ';
+				$result .= '<a href="http://www.vimeo.com/'.$vimeo.'">Vimeo</a>, ';
 			}
 			if( strlen( $mov ) > 0 ) {
 				$result .= '<a href="trailers/'.$mov.'">.mov</a>, ';
