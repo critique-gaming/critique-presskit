@@ -10,7 +10,7 @@ foreach( $xml->children() as $child )
 	{
 		case("title"):
 			define(GAME_TITLE, $child);
-			break;	
+			break;
 		case("release-date"):
 			define(GAME_DATE, $child);
 			break;
@@ -49,7 +49,7 @@ foreach( $xml->children() as $child )
 				$features[$i] = $subchild;
 				$i++;
 			}
-			break;	
+			break;
 		case("trailers"):
 			$trailers = array();
 			$i = 0;
@@ -58,7 +58,7 @@ foreach( $xml->children() as $child )
 				$trailers[$i][$subchild->getName()] = $subchild;
 				$i++;
 			}
-			break;					
+			break;
 		case("awards"):
 			$awards = array();
 			$i = 0;
@@ -67,7 +67,7 @@ foreach( $xml->children() as $child )
 				$awards[$i][$subchild->getName()] = $subchild;
 				$i++;
 			}
-			break;					
+			break;
 		case("quotes"):
 			$quotes = array();
 			$i = 0;
@@ -76,7 +76,7 @@ foreach( $xml->children() as $child )
 				$quotes[$i][$subchild->getName()] = $subchild;
 				$i++;
 			}
-			break;					
+			break;
 		case("additionals"):
 			$additionals = array();
 			$i = 0;
@@ -85,7 +85,7 @@ foreach( $xml->children() as $child )
 				$additionals[$i][$subchild->getName()] = $subchild;
 				$i++;
 			}
-			break;					
+			break;
 		case("credits"):
 			$credits = array();
 			$i = 0;
@@ -94,7 +94,7 @@ foreach( $xml->children() as $child )
 				$credits[$i][$subchild->getName()] = $subchild;
 				$i++;
 			}
-			break;					
+			break;
 	}
 }
 
@@ -150,10 +150,10 @@ function parseLink($uri)
 	{
 		var docViewTop = $(window).scrollTop();
 		var docViewBottom = docViewTop + $(window).height();
-	
+
 		var elemTop = $(elem).offset().top;
 		var elemBottom = elemTop + $(elem).height();
-	
+
 		return ( (elemBottom >= docViewTop && elemBottom <= docViewBottom) || (elemTop <= docViewBottom && elemTop >= docViewTop) || (elemTop <= docViewTop && elemBottom >= docViewBottom) );
 	}
 </script>
@@ -189,29 +189,29 @@ function parseLink($uri)
             <li><a href="#contact" id="m-contact" target="_self">Contact</a></li>
         </ul>
     </div>
-    
+
     <div id="content">
         <!-- Header -->
-        <?php 
+        <?php
 			if( file_exists("images/header.png") ) echo('<img src="images/header.png" id="header" width="960" />');
 		?>
-    
+
         <!-- Factsheet start -->
         <div id="factsheet">
         <h2>Factsheet</h2>
-        
+
         <!-- Developer information -->
         <p><strong>Developer:</strong><br/>
         <a href="">Vlambeer</a><br/>
         Based in Utrecht, Netherlands<br/></p>
-        
+
         <!-- Release date -->
         <p><strong>Release date:</strong><br/>
         <?php echo(GAME_DATE) ?><br/></p>
-        
+
         <!-- Platforms -->
         <p><strong>Platforms:</strong><br/>
-        <?php 
+        <?php
 			for( $i = 0; $i < count($platforms); $i++ )
 			{
 				foreach( $platforms[$i]['platform']->children() as $child )
@@ -223,11 +223,11 @@ function parseLink($uri)
 			}
 		?>
         </p>
-        
+
         <!-- Website -->
         <p><strong>Website:</strong><br/>
         <a href="<?php echo(GAME_WEBSITE) ?>"><?php echo parseLink(GAME_WEBSITE) ?></a><br/></p>
-        
+
         <!-- Pricing -->
         <p><strong>Regular Price:</strong><br/>
         <table>
@@ -245,19 +245,19 @@ function parseLink($uri)
         </table>
         </p>
         </div>
-        
+
         <!-- Description start -->
         <div id="description">
         <h2>Description</h2>
         <?php echo(GAME_DESCRIPTION) ?>
         </div>
-        
+
         <!-- History start -->
         <div id="history">
         <h2>History</h2>
         <?php echo(GAME_HISTORY) ?>
         </div>
-        
+
         <!-- Features start -->
         <div id="features">
         <h2>Features</h2>
@@ -273,7 +273,7 @@ function parseLink($uri)
 
 		<!-- Clear -->
         <div class="clear" />
-        
+
         <!-- Trailers start -->
         <div id="trailers">
 		<h2>Videos</h2>
@@ -288,35 +288,35 @@ function parseLink($uri)
 					else if( $child->getName() == "mov" ) $mov = $child;
 					else if( $child->getName() == "mp4" ) $mp4 = $child;
 				}
-				
-				if( strlen($youtube) + strlen($vimeo) > 0 )				
+
+				if( strlen($youtube) + strlen($vimeo) > 0 )
 				{
 					echo('<p><strong>'.$name.'</strong> ');
 					$result = "";
-					if( strlen( $youtube ) > 0 ) $result .= '<a href="http://www.youtube.com/?v='.$youtube.'">YouTube</a>, ';
-					if( strlen( $vimeo ) > 0 ) $result .= '<a href="http://www.vimeo.com/'.$vimeo.'">Vimeo</a>, ';
+					if( strlen( $youtube ) > 0 ) $result .= '<a href="//www.youtube.com/?v='.$youtube.'">YouTube</a>, ';
+					if( strlen( $vimeo ) > 0 ) $result .= '<a href="//www.vimeo.com/'.$vimeo.'">Vimeo</a>, ';
 					if( strlen( $mov ) > 0 ) $result .= '<a href="trailers/'.$mov.'">.mov</a>, ';
 					if( strlen( $mp4 ) > 0 ) $result .= '<a href="trailers/'.$mp4.'">.mp4</a>, ';
 					echo( substr($result, 0, -2) );
 
-					if( strlen( $youtube ) > 0 ) 
+					if( strlen( $youtube ) > 0 )
 					{
-						echo('<iframe width="720" height="396" src="http://www.youtube.com/embed/'.$youtube.'" frameborder="0" allowfullscreen></iframe>');
+						echo('<iframe width="720" height="396" src="//www.youtube.com/embed/'.$youtube.'" frameborder="0" allowfullscreen></iframe>');
 					}
 					else
 					{
-						echo('<iframe src="http://player.vimeo.com/video/'.$vimeo.'" width="720" height="540" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>');
+						echo('<iframe src="//player.vimeo.com/video/'.$vimeo.'" width="720" height="540" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>');
 					}
 				}
 				else
 				{
-					echo('<p>There are currently no trailers available for '.GAME_TITLE.'. Check back later for more or <a href="#contact">contact us</a> for specific requests!</p>');					
+					echo('<p>There are currently no trailers available for '.GAME_TITLE.'. Check back later for more or <a href="#contact">contact us</a> for specific requests!</p>');
 				}
 				echo('</p>');
 			}
 		?>
         </div>
-        
+
 		<!-- Clear -->
         <div class="clear" />
 
@@ -324,36 +324,36 @@ function parseLink($uri)
         <div id="screenshots">
         <h2>Screenshots</h2>
         <?php
-		
+
 			if( file_exists("images/images.zip") )
 			{
 				$filesize = filesize("images/images.zip");
 				if( $filesize > 1024 && $filesize < 1048576 ) $filesize = (int)( $filesize / 1024 ).'KB';
 				if( $filesize > 1048576 ) $filesize = (int)( $filesize / 1024 ).'MB';
-				
-				echo('<a href="images/images.zip"><div id="media-download">download all screenshots, icons & logos as .zip ('. $filesize .')</div></a>');	
+
+				echo('<a href="images/images.zip"><div id="media-download">download all screenshots, icons & logos as .zip ('. $filesize .')</div></a>');
 			}
-		
+
 			if ($handle = opendir('images')) {
-				
+
 				$found = 0;
 				/* This is the correct way to loop over the directory. */
 				while (false !== ($entry = readdir($handle))) {
 					if( substr($entry,-4) == ".png" )
 						if( substr($entry,0,4) != "logo" && substr($entry,0,4) != "icon" && substr($entry,0,6) != "header" )
-						{	
+						{
 							echo('<a href="images/'.$entry.'"><img class="preview" src="images/'.$entry.'" alt="'.$entry.'" /></a>');
 							$found++;
 						}
 				}
-				
+
 				if( $found == 0 ) echo('<p>There are currently no screenshots available for '.GAME_TITLE.'. Check back later for more or <a href="#contact">contact us</a> for specific requests!</p>');
 			}
-			
+
 			closedir($handle);
-		?>        
+		?>
         </div>
-        
+
 		<!-- Clear -->
         <div class="clear" />
 
@@ -367,7 +367,7 @@ function parseLink($uri)
 			echo('<p>There are currently no logos or icons available for '.GAME_TITLE.'. Check back later for more or <a href="#contact">contact us</a> for specific requests!</p>');
 		?>
         </div>
-        
+
 		<!-- Clear -->
         <div class="clear" />
 
@@ -375,7 +375,7 @@ function parseLink($uri)
         <div id="awards">
         <h2>Awards & Recognition</h2>
         <ul>
-        <?php 
+        <?php
 			for( $i = 0; $i < count($awards); $i++ )
 			{
 				foreach( $awards[$i]['award']->children() as $child )
@@ -388,7 +388,7 @@ function parseLink($uri)
 		?>
         </ul>
         </div>
-        
+
 		<!-- Clear -->
         <div class="clear" />
 
@@ -396,7 +396,7 @@ function parseLink($uri)
         <div id="quotes">
         <h2>Selected Articles</h2>
         <ul>
-        <?php 
+        <?php
 			for( $i = 0; $i < count($quotes); $i++ )
 			{
 				foreach( $quotes[$i]['quote']->children() as $child )
@@ -412,7 +412,7 @@ function parseLink($uri)
 		?>
         </ul>
         </div>
-        
+
 		<!-- Clear -->
         <div class="clear" />
 
@@ -423,14 +423,14 @@ function parseLink($uri)
         <div id="mailform"><input type="text" value="me@website.com" id="from" /><input type="button" id="submit-button" value="Request Press Copy" /><br/>&nbsp;<br/>Alternatively, you can always request a press copy by <a href="#contact">sending us a quick email</a>.</div>
         <div id="mailsuccess" style="display:none;">Thanks for the request. We'll be in touch as soon as possible. In the meanwhile, feel free to <a href="#contact">follow up with any questions or requests you might have!</a></div>
         </p></div>
-        
+
 		<!-- Clear -->
         <div class="clear" />
 
         <!-- Links -->
         <div id="links">
         <h2>Additional Links</h2>
-        <?php 
+        <?php
 			for( $i = 0; $i < count($additionals); $i++ )
 			{
 				foreach( $additionals[$i]['additional']->children() as $child )
@@ -439,12 +439,12 @@ function parseLink($uri)
 					else if( $child->getName() == "description" ) $description = $child;
 					else if( $child->getName() == "link" ) $link = $child;
 				}
-				
+
 				echo('<p><strong>'.$title.'</strong><br/>'.$description.' <a href="http://'.parseLink($link).'/" alt="'.parseLink($link).'">'.substr(parseLink($link),0,strpos(parseLink($link), "/")).'</a>.</p>');
 			}
 		?>
         </div>
-        
+
 		<!-- Clear -->
         <div class="clear" />
 
@@ -453,18 +453,18 @@ function parseLink($uri)
         <h2>About Vlambeer</h2>
         <p><strong>Boilerplate</strong><br/>
         Vlambeer is a Dutch independent game studio made up of Rami Ismail and Jan Willem Nijman, bringing back arcade games since 1976. Vlambeer is best known for Super Crate Box, Radical Fishing, Serious Sam: The Random Encounter and GUN GODZ, even though they've released quite a few more games and experiments since their founding in September 2010.</p>
-        
+
         <p><strong>More information</strong><br/>
         More information on Vlambeer, our logo & relevant media are available <a href="">here</a>.</p>
         </div>
-        
+
 		<!-- Clear -->
         <div class="clear" />
-        
+
         <!-- Credits -->
         <div id="credits">
         <h2><?php echo( GAME_TITLE ) ?> Credits</h2>
-        <?php 
+        <?php
 			for( $i = 0; $i < count($credits); $i++ )
 			{
 				$previous = "";
@@ -476,21 +476,21 @@ function parseLink($uri)
 					else if( $child->getName() == "website" ) $website = $child;
 					else if( $child->getName() == "role" ) $role = $child;
 				}
-				
+
 				if( strlen($website) == 0 )
 				{
 					echo('<p><strong>'.$person.'</strong><br/>'.$role);
 				}
 				else
 				{
-					echo('<p><strong>'.$person.'</strong><br/><a href="http://'.parseLink($website).'/">'.$role.'</a>');					
+					echo('<p><strong>'.$person.'</strong><br/><a href="http://'.parseLink($website).'/">'.$role.'</a>');
 				}
-								
+
 				echo('</p>');
 			}
 		?>
         </div>
-        
+
         <!-- Contact -->
         <div id="contact">
         <h2>Contact</h2>

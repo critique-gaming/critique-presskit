@@ -293,19 +293,19 @@ function parseLink($uri)
 				{
 					echo('<p><strong>'.$name.'</strong> ');
 					$result = "";
-					if( strlen( $youtube ) > 0 ) $result .= '<a href="http://www.youtube.com/?v='.$youtube.'">YouTube</a>, ';
-					if( strlen( $vimeo ) > 0 ) $result .= '<a href="http://www.vimeo.com/'.$vimeo.'">Vimeo</a>, ';
+					if( strlen( $youtube ) > 0 ) $result .= '<a href="//www.youtube.com/?v='.$youtube.'">YouTube</a>, ';
+					if( strlen( $vimeo ) > 0 ) $result .= '<a href="//www.vimeo.com/'.$vimeo.'">Vimeo</a>, ';
 					if( strlen( $mov ) > 0 ) $result .= '<a href="trailers/'.$mov.'">.mov</a>, ';
 					if( strlen( $mp4 ) > 0 ) $result .= '<a href="trailers/'.$mp4.'">.mp4</a>, ';
 					echo( substr($result, 0, -2) );
 
 					if( strlen( $youtube ) > 0 ) 
 					{
-						echo('<iframe width="720" height="396" src="http://www.youtube.com/embed/'.$youtube.'" frameborder="0" allowfullscreen></iframe>');
+						echo('<iframe width="720" height="396" src="//www.youtube.com/embed/'.$youtube.'" frameborder="0" allowfullscreen></iframe>');
 					}
 					else
 					{
-						echo('<iframe src="http://player.vimeo.com/video/'.$vimeo.'" width="720" height="540" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>');
+						echo('<iframe src="//player.vimeo.com/video/'.$vimeo.'" width="720" height="540" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>');
 					}
 				}
 				else
