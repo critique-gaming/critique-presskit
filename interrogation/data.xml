@@ -51,6 +51,11 @@
 
 	<trailers>
 		<trailer>
+			<name>Gameplay Video Early 2017</name>
+			<youtube>xIT4aeY5PJ8</youtube>
+		</trailer>
+
+		<trailer>
 			<name>Prototype teaser trailer</name>
 			<youtube>_LsZoggH660</youtube>
 		</trailer>
@@ -58,11 +63,19 @@
 
 	<awards>
 		<award>
+			<description>Very Big Indie Pitch nominee.</description>
+			<info>Pocket Gamer Connect London, January, 2017</info>
+		</award>
+		<award>
+			<description>Special Talent Award Contest nominee.</description>
+			<info>Ludicious Zurich, January, 2017</info>
+		</award>
+		<award>
 			<description>Indie Pitch runner-up.</description>
 			<info>Dev.Play, 20 September, 2016</info>
 		</award>
 		<award>
-			<description>Amber Jam runner-up.</description>
+			<description>Selected for the Amber Jam.</description>
 			<info>East European Comic-Con, 29 May, 2016</info>
 		</award>
 	</awards>
@@ -104,11 +117,6 @@
 			<title>Playable Prototype</title>
 			<description>An early-stage playable prototype of the game.</description>
 			<link>https://critique-gaming.itch.io/interrogation</link>
-		</additional>
-		<additional>
-			<title>Gameplay Video</title>
-			<description>Some raw gameplay footage.</description>
-			<link>https://drive.google.com/open?id=0B_LYXeVGf4gVdmdaSWI0NE12c3c</link>
 		</additional>
 		<additional>
 			<title>Game graphics &amp; Screenshots</title>

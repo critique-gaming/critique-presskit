@@ -62,8 +62,20 @@
 
 	<awards>
 		<award>
-			<description>Locul 2 la Indie Pitch.</description>
+			<description>Nominalizați la "Very Big Indie Pitch".</description>
+			<info>Pocket Gamer Connect London, Ianuarie, 2017</info>
+		</award>
+		<award>
+			<description>Nominalizați la "Special Talent Award Contest".</description>
+			<info>Ludicious Zurich, Ianuarie, 2017</info>
+		</award>
+		<award>
+			<description>Locul 2 la "Indie Pitch".</description>
 			<info>Dev.Play, 20 Septembrie, 2016</info>
+		</award>
+		<award>
+			<description>Selecționați pentru "Amber Jam".</description>
+			<info>East European Comic-Con, 29 May, 2016</info>
 		</award>
 	</awards>
 

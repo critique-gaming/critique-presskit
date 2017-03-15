@@ -62,8 +62,20 @@
 
 	<awards>
 		<award>
+			<description>Very Big Indie Pitch nominee.</description>
+			<info>Pocket Gamer Connect London, January, 2017</info>
+		</award>
+		<award>
+			<description>Special Talent Award Contest nominee.</description>
+			<info>Ludicious Zurich, January, 2017</info>
+		</award>
+		<award>
 			<description>Indie Pitch runner-up.</description>
 			<info>Dev.Play, 20 September, 2016</info>
+		</award>
+		<award>
+			<description>Selected for the Amber Jam.</description>
+			<info>East European Comic-Con, 29 May, 2016</info>
 		</award>
 	</awards>
 

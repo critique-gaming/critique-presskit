@@ -51,15 +51,32 @@
 
 	<trailers>
 		<trailer>
-			<name>Prototype teaser trailer</name>
+			<name>Gameplay Video început de 2017</name>
+			<youtube>xIT4aeY5PJ8</youtube>
+		</trailer>
+
+		<trailer>
+			<name>Teaser trailer prototip</name>
 			<youtube>_LsZoggH660</youtube>
 		</trailer>
 	</trailers>
 
 	<awards>
 		<award>
-			<description>Locul 2 la Indie Pitch.</description>
+			<description>Nominalizați la "Very Big Indie Pitch".</description>
+			<info>Pocket Gamer Connect London, Ianuarie, 2017</info>
+		</award>
+		<award>
+			<description>Nominalizați la "Special Talent Award Contest".</description>
+			<info>Ludicious Zurich, Ianuarie, 2017</info>
+		</award>
+		<award>
+			<description>Locul 2 la "Indie Pitch".</description>
 			<info>Dev.Play, 20 Septembrie, 2016</info>
+		</award>
+		<award>
+			<description>Selecționați pentru "Amber Jam".</description>
+			<info>East European Comic-Con, 29 May, 2016</info>
 		</award>
 	</awards>
 
@@ -100,11 +117,6 @@
 			<title>Prototip jucabil</title>
 			<description>Un prototip early-stage al Interrogation.</description>
 			<link>https://critique-gaming.itch.io/interrogation</link>
-		</additional>
-		<additional>
-			<title>Gameplay Video</title>
-			<description>Un video de gameplay brut, needitat.</description>
-			<link>https://drive.google.com/open?id=0B_LYXeVGf4gVdmdaSWI0NE12c3c</link>
 		</additional>
 		<additional>
 			<title>Garfică de joc și screenshot-uri</title>
