@@ -35,7 +35,7 @@
 	</prices> -->
 
 	<description>
-	Interrogation is a narrative game that emulates the atmosphere of dark investigation procedurals to put the player in the detective’s seat and challenge their preconceptions with noire intensity. The game is intended to emulate the tropes related to interrogation scenes in pop-culture while also offering some deconstruction. It plays as a questions-based puzzle against a (5 minute) clock in which the player must manage the emotions of suspects and interpret information into discovering details about future terrorist attacks.
+	Interrogation is a narrative game that emulates the atmosphere of dark investigation procedurals to put the player in the detective’s seat and challenge their preconceptions with noire intensity. The game is intended to emulate the tropes related to interrogation scenes in pop-culture while also offering some deconstruction. It plays as a questions-based puzzle in which the player must manage the emotions of suspects and interpret information into discovering details about future terrorist attacks.
 	</description>
 
 	<history>
@@ -43,10 +43,10 @@
 	</history>
 
 	<features>
-		<feature>Noire art and custom soundtrack in increasingly heavier rhythm for deep immersion and tension</feature>
-		<feature>Variable-based puzzle system (HP, Fear, Empathy, Cruelty) that get built up in order to unlock new answers to questions and from that new questions</feature>
-		<feature>Question list, Briefing Files, "Enhanced" Interrogation</feature>
-		<feature>Successive Episodes in increasing complexity and difficulty</feature>
+		<feature>Noire and opressive art style and music for deep immersion and tension</feature>
+		<feature>Asking questions affects the emotional model of the characters</feature>
+		<feature>Story that explores the subject of authority, in the context of terrorism and the fight against it</feature>
+		<feature>Manage a cast of police investigators fighting the terrorist threat under your supervision</feature>
 	</features>
 
 	<trailers>
@@ -114,11 +114,6 @@
 			<link>https://drive.google.com/file/d/0B_LYXeVGf4gVWmpNd25FSjR0RW8/view</link>
 		</additional>
 		<additional>
-			<title>Playable Prototype</title>
-			<description>An early-stage playable prototype of the game.</description>
-			<link>https://critique-gaming.itch.io/interrogation</link>
-		</additional>
-		<additional>
 			<title>Game graphics &amp; Screenshots</title>
 			<description>Additional screenshots and character graphics.</description>
 			<link>https://drive.google.com/open?id=0B_LYXeVGf4gVTTFsWW5vam1lcTA</link>
@@ -137,11 +132,6 @@
 			<website>petcu.me</website>
 		</credit>
 		<credit>
-			<person>Dora Marian</person>
-			<role>Art, Graphics</role>
-			<website>https://www.behance.net/DoraMarian</website>
-		</credit>
-		<credit>
 			<person>David Moscovici</person>
 			<role>Game Design, Writing</role>
 			<website>https://www.linkedin.com/in/david-moscovici-56794161</website>
@@ -150,6 +140,23 @@
 			<person>Dragoș “Dexi” Antoniu</person>
 			<role>Music, Sound Design</role>
 			<website>https://soundcloud.com/dexiantoniu</website>
+		</credit>
+		<credit>
+			<person>Cătălin Nedeluș</person>
+			<role>Programming, Sound Design, Animation</role>
+		</credit>
+		<credit>
+			<person>Yanna Zosmer</person>
+			<role>Art, Graphics</role>
+		</credit>
+		<credit>
+			<person>Mădălina Șoimu</person>
+			<role>Art, Graphics</role>
+		</credit>
+		<credit>
+			<person>Dora Marian</person>
+			<role>Art, Graphics</role>
+			<website>https://www.behance.net/DoraMarian</website>
 		</credit>
 	</credits>
 </game>

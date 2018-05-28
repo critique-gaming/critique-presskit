@@ -27,7 +27,7 @@
 	</socials>
 
 	<description>
-		The Critique Gaming team is an eclectic squad consisting of five people with very different social and educational backgrounds, from law and economy to art and programming, with very diverse skillsets. We’ve gathered with the mission of making pointful games that explore important contemporary questions. After testing a few directions, we’re looking to moving on from amateur into professional independent game development with our Interrogation prototype.
+		The Critique Gaming team is an eclectic squad of people with very different social and educational backgrounds, from law and economy to art and programming, with very diverse skillsets. We’ve gathered with the mission of making pointful games that explore important contemporary questions.
 	</description>
 
 	<histories>
@@ -40,8 +40,8 @@
 			<text>Marius Petcu studies in the Bucharest Polytechnic. With artistic spirit and a background in debating, he’s the team’s programmer. He makes sure the abstract thoughts and ideas of the team take tangible form, supple and interactive on the player’s screen.</text>
 		</history>
 		<history>
-			<header>Dora</header>
-			<text>Dora Marian is a graduate of the National University of Arts, photographer, tasteful super-hipster and graphical artist of the team. She gives identity and visual form to all of the team’s creative content.</text>
+			<header>Yanna</header>
+			<text>Yanna Zosmer is a graduate of the National University of Arts, a professional illustrator, a great cat lover and a hair-color metamorph. She gives identity and visual form to all of the team’s creative content.</text>
 		</history>
 		<history>
 			<header>David</header>
@@ -50,6 +50,14 @@
 		<history>
 			<header>Dexi</header>
 			<text>Dragos “Dexi” Antoniu is an economist but his soul is in music. Passionate about contemporary popular art, he creates the sounds and soundtracks for Critique Gaming.</text>
+		</history>
+		<history>
+			<header>Cătălin</header>
+			<text>Amateur musician and video game enthusiast, Cătălin Nedeluș does not like waking up early. However, he is like fish in the water when it comes to game development.</text>
+		</history>
+		<history>
+			<header>Mădălina</header>
+			<text>Completing our art team, Mădălina Șoimu is a Computer Science student. She has a knack for smart video games and for drawing art for them.</text>
 		</history>
 	</histories>
 
@@ -136,11 +144,6 @@
 			<website>petcu.me</website>
 		</credit>
 		<credit>
-			<person>Dora Marian</person>
-			<role>Art, Graphics</role>
-			<website>https://www.behance.net/DoraMarian</website>
-		</credit>
-		<credit>
 			<person>David Moscovici</person>
 			<role>Game Design, Writing</role>
 			<website>https://www.linkedin.com/in/david-moscovici-56794161</website>
@@ -149,6 +152,23 @@
 			<person>Dragoș “Dexi” Antoniu</person>
 			<role>Music, Sound Design</role>
 			<website>https://soundcloud.com/dexiantoniu</website>
+		</credit>
+		<credit>
+			<person>Cătălin Nedeluș</person>
+			<role>Programming, Sound Design, Animation</role>
+		</credit>
+		<credit>
+			<person>Yanna Zosmer</person>
+			<role>Art, Graphics</role>
+		</credit>
+		<credit>
+			<person>Mădălina Șoimu</person>
+			<role>Art, Graphics</role>
+		</credit>
+		<credit>
+			<person>Dora Marian</person>
+			<role>Art, Graphics</role>
+			<website>https://www.behance.net/DoraMarian</website>
 		</credit>
 	</credits>
 
@@ -159,11 +179,15 @@
 		</contact>
 		<contact>
 			<name>Facebook</name>
-			<link>http://facebook.com/CritiqueGaming</link>
+			<link>https://facebook.com/CritiqueGaming</link>
+		</contact>
+		<contact>
+			<name>Instagram</name>
+			<link>https://instagram.com/critiquegaming</link>
 		</contact>
 		<contact>
 			<name>Twitter</name>
-			<link>http://twitter.com/Critique_Gaming</link>
+			<link>https://twitter.com/Critique_Gaming</link>
 		</contact>
 		<contact>
 			<name>Web</name>
