@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "presskit build -L --watch data",
-    "deploy": "presskit build -B /presskit/ -DL data && cp -r redirections/* build/ && gh-pages --dist build --branch build"
+    "deploy": "presskit build -B /presskit/ -DL data && gh-pages --dist build --branch build"
   },
   "repository": {
     "type": "git",
