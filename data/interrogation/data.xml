@@ -1,11 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
-<game>
+<product>
 	<title>Interrogation</title>
 	<website>https://interrogation-game.com/</website>
-	<press-copy-request>
-		http://keymailer.co/g/games/31571
-	</press-copy-request>
 
 	<partners>
 		<partner>
@@ -159,30 +156,36 @@
 		</additional>
 	</additionals>
 
-	<contact>
-		<name>Inquiries</name>
-		<mail>contact@interrogation-game.com</mail>
-	</contact>
-	<contact>
-		<name>Press</name>
-		<mail>press@interrogation-game.com</mail>
-	</contact>
-	<contact>
-		<name>Discord</name>
-		<link>https://discord.gg/mixtvision</link>
-	</contact>
-	<contact>
-		<name>Facebook</name>
-		<link>https://facebook.com/InterrogationG</link>
-	</contact>
-	<contact>
-		<name>Twitter</name>
-		<link>https://twitter.com/InterrogationG</link>
-	</contact>
-	<contact>
-		<name>Website</name>
-		<link>https://interrogation-game.com</link>
-	</contact>
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>contact@interrogation-game.com</mail>
+		</contact>
+		<contact>
+			<name>Request a press copy</name>
+			<mail>press@interrogation-game.com</mail>
+		</contact>
+		<contact>
+			<name>If you are a content creator, request a press copy via Keymailer</name>
+			<link>http://keymailer.co/g/games/31571</link>
+		</contact>
+		<contact>
+			<name>Discord</name>
+			<link>https://discord.gg/mixtvision</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>https://facebook.com/InterrogationG</link>
+		</contact>
+		<contact>
+			<name>Twitter</name>
+			<link>https://twitter.com/InterrogationG</link>
+		</contact>
+		<contact>
+			<name>Website</name>
+			<link>https://interrogation-game.com</link>
+		</contact>
+	</contacts>
 
 	<credits>
 		<credit>
@@ -227,4 +230,4 @@
 			<role>Writing</role>
 		</credit>
 	</credits>
-</game>
+</product>
