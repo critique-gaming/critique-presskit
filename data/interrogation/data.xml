@@ -28,24 +28,16 @@
 		</platform>
 	</platforms>
 
-	<!-- <prices>
+	<prices>
 		<price>
-			<currency>USD</currency>
-			<value>$1.99</value>
+			<currency>TBD</currency>
+			<value></value>
 		</price>
-		<price>
-			<currency>EUR</currency>
-			<value>€1.59</value>
-		</price>
-		<price>
-			<currency>CAD</currency>
-			<value>$1.99</value>
-		</price>
-		<price>
-			<currency>GBP</currency>
-			<value>£1.29</value>
-		</price>
-	</prices> -->
+	</prices>
+
+	<press-copy-request>
+		../request-interrogation-copy
+	</press-copy-request>
 
 	<description>
 		Interrogation is a difficult noire detective game about ethics, morality, radicalization and the nature of authority. Strategically manage the special police department tasked with bringing down a terrorist organization which threatens the very structure of society: The Liberation Front. Uncover their mysteries in iconic movie-like Interrogation scenes, using a complex conversation simulation system. Solve hard conversational puzzles by psychologically manipulating realistic suspects. Decide their fate, your fate and the city’s.
