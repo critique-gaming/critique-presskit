@@ -15,7 +15,7 @@
 
 
 	<release-dates>
-		<release-date>2019</release-date>
+		<release-date>5 December 2019</release-date>
 	</release-dates>
 
 	<platforms>
@@ -25,6 +25,10 @@
 		<platform>
 			<name>Steam</name>
 			<link>https://store.steampowered.com/app/1016770/Interrogation/</link>
+		</platform>
+		<platform>
+			<name>GOG.com</name>
+			<link>https://www.gog.com/game/interrogation_you_will_be_deceived</link>
 		</platform>
 	</platforms>
 
@@ -66,6 +70,10 @@
 		<trailer>
 			<name>Teaser trailer</name>
 			<youtube>wJHSOmjxqiY</youtube>
+		</trailer>
+		<trailer>
+			<name>Release date announcement trailer</name>
+			<youtube>zv3xNX35Kak</youtube>
 		</trailer>
 	</trailers>
 
