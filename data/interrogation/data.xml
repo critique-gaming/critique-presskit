@@ -20,7 +20,7 @@
 
 	<platforms>
 		<platform>
-			<name>PC / Mac / Linux</name>
+			<name>PC / Mac / Linux / IOS / Android / Switch</name>
 		</platform>
 		<platform>
 			<name>Steam</name>
@@ -30,12 +30,28 @@
 			<name>GOG.com</name>
 			<link>https://www.gog.com/game/interrogation_you_will_be_deceived</link>
 		</platform>
+		<platform>
+			<name>humblebundle.com</name>
+			<link>https://www.humblebundle.com/store/interrogation-you-will-be-deceived</link>
+		</platform>
+		<platform>
+			<name>IOS</name>
+			<link>https://apps.apple.com/us/app/interrogation-deceived/id1495159910</link>
+		</platform>
+		<platform>
+			<name>Android</name>
+			<link>https://play.google.com/store/apps/details?id=com.mixtvision.interrogation&hl=en_US</link>
+		</platform>
+		<platform>
+			<name>Nintendo Switch</name>
+			<link>https://www.nintendo.com/games/detail/interrogation-you-will-be-deceived-switch/</link>
+		</platform>
 	</platforms>
 
 	<prices>
 		<price>
-			<currency>TBD</currency>
-			<value></value>
+			<currency>USD</currency>
+			<value>12.99</value>
 		</price>
 	</prices>
 
@@ -74,6 +90,10 @@
 		<trailer>
 			<name>Release date announcement trailer</name>
 			<youtube>zv3xNX35Kak</youtube>
+		</trailer>
+		<trailer>
+			<name>Release trailer</name>
+			<youtube>X7yFCXGFSGc</youtube>
 		</trailer>
 	</trailers>
 
@@ -157,11 +177,6 @@
 			<description>Additional graphics, logos, screenshots and other materials.</description>
 			<link>https://drive.google.com/drive/folders/10C6Xse9mz_7cIRbXzJzshIq24iglQh0N</link>
 		</additional>
-		<additional>
-			<title>Dev.Play 2017 Pitch</title>
-			<description>A 10-minute presentation by David about the game's concept and roadmap.</description>
-			<link>https://drive.google.com/file/d/0B_LYXeVGf4gVWmpNd25FSjR0RW8/view</link>
-		</additional>
 	</additionals>
 
 	<contacts>
@@ -236,6 +251,10 @@
 		<credit>
 			<person>Mihai Oprea</person>
 			<role>Writing</role>
+		</credit>
+		<credit>
+			<person>Moise Theodor</person>
+			<role>Business Admin, Art</role>
 		</credit>
 	</credits>
 </product>

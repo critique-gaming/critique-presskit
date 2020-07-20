@@ -10,9 +10,8 @@
 	<press-contact>office@critique-gaming.com</press-contact>
 	<phone>+40 732 444 934</phone>
 	<address>
-		<line>Intrarea Doctor Iacob Felix 59</line>
-		<line>Apt. 21, 5th floor</line>
-		<line>011042 Bucharest</line>
+		<line>23 Mircea Vulcănescu St.</line>
+		<line>010812 Bucharest</line>
 	</address>
 
 	<socials>
@@ -40,8 +39,9 @@
 			<text>Marius Petcu studies in the Bucharest Polytechnic. With artistic spirit and a background in debating, he’s the team’s programmer. He makes sure the abstract thoughts and ideas of the team take tangible form, supple and interactive on the player’s screen.</text>
 		</history>
 		<history>
-			<header>Yanna</header>
-			<text>Yanna Zosmer is a graduate of the National University of Arts, a professional illustrator, a great cat lover and a hair-color metamorph. She gives identity and visual form to all of the team’s creative content.</text>
+			<header>Moise</header>
+			<text>Moise Theodor, master of numbers and papers, a human sized calculator of optimized business organization, he is the team’s business admin and our very own semi-pro e-sports player.
+			</text>
 		</history>
 		<history>
 			<header>David</header>
@@ -62,55 +62,110 @@
 	</histories>
 
 	<trailers>
+		<!-- <trailer>
+			<name>Gameplay Video Early 2017</name>
+			<youtube>xIT4aeY5PJ8</youtube>
+		</trailer> -->
+
 		<trailer>
-			<name>The vertical slice trailer for Interrogation</name>
-			<youtube>8sIeD_oal2U</youtube>
+			<name>Teaser trailer</name>
+			<youtube>wJHSOmjxqiY</youtube>
+		</trailer>
+		<trailer>
+			<name>Release trailer</name>
+			<youtube>X7yFCXGFSGc</youtube>
+		</trailer>
+		<trailer>
+			<name>Short Company Presentation (Romanian)</name>
+			<youtube>9rvzPi7C2Xo</youtube>
+		</trailer>
+		<trailer>
+			<name>How are video games made in Romania - Ep.2 (Romanian, with captions)</name>
+			<youtube>yBq98maYKJk</youtube>
+		</trailer>
+		<trailer>
+			<name>Interview from System Shutdown</name>
+			<youtube>MnjrjMcERFY</youtube>
 		</trailer>
 	</trailers>
 
 	<awards>
 		<award>
-			<description>Very Big Indie Pitch nominee.</description>
+			<description>Best Narrative Design</description>
+			<info>Montreal Independent Game Awards 2019, November, 2019</info>
+		</award>
+		<award>
+			<description>Coup de Coeur Panache Digital Games Finalist</description>
+			<info>Montreal Independent Game Awards 2019, November, 2019</info>
+		</award>
+		<award>
+			<description>Nordic Game Discovery Contest: Final Four Finalist</description>
+			<info>Nordic Game, May, 2019</info>
+		</award>
+		<award>
+			<description>Best Game Design</description>
+			<info>Dev.Play, October, 2018</info>
+		</award>
+		<award>
+			<description>Best Game of the Show</description>
+			<info>Dev.Play, October, 2018</info>
+		</award>
+		<award>
+			<description>Best Visuals finalist</description>
+			<info>Dev.Play, October, 2018</info>
+		</award>
+		<award>
+			<description>Indie Prize finalist</description>
+			<info>Casual Connect London, May, 2018</info>
+		</award>
+		<award>
+			<description>Very Big Indie Pitch nominee</description>
 			<info>Pocket Gamer Connect London, January, 2017</info>
 		</award>
 		<award>
-			<description>Special Talent Award Contest nominee.</description>
+			<description>Special Talent Award Contest nominee</description>
 			<info>Ludicious Zurich, January, 2017</info>
 		</award>
 		<award>
-			<description>Indie Pitch runner-up.</description>
+			<description>Indie Pitch runner-up</description>
 			<info>Dev.Play, 20 September, 2016</info>
 		</award>
 		<award>
-			<description>Selected for the Amber Jam.</description>
+			<description>Selected for the Amber Jam</description>
 			<info>East European Comic-Con, 29 May, 2016</info>
 		</award>
 	</awards>
 
-	<!-- <quotes>
+	<quotes>
 		<quote>
-			<description>This is a rather insignificant quote by a highly important person.</description>
-			<name>Person Name</name>
-			<website>Website</website>
-			<link>http://www.website.com/</link>
+			<description>Interrogation: You Will Be Deceived brings a fresh game with provocative ideas delivered in a thrilling way</description>
+			<website>Gaming Cypher</website>
+			<link>https://www.gamingcypher.com/interrogation-you-will-be-deceived-review-for-steam/</link>
 		</quote>
 		<quote>
-			<description>An extremely positive quote from a rather insignificant person. Also great.</description>
-			<name>Some Guy</name>
-			<website>This Page Is Visited By 12 Visitors A Month</website>
-			<link>http://geocities.blog.com/</link>
+			<description>Interrogation: You will be deceived ambitiously marries adventure, RPG and strategy elements with a dark edge that will even have you asking questions of yourself.</description>
+			<website>Adventure Gamers</website>
+			<link>https://adventuregamers.com/articles/view/39821</link>
 		</quote>
 		<quote>
-			<description>I pretend to love this game even though I do not actually understand it.</description>
-			<name>Pretentious Bastard</name>
-			<website>Artsy Page</website>
-			<link>http://art.tumblr.com/</link>
+			<description>Interrogation is an emotionally compelling and thought-provoking look at contemporary issues.</description>
+			<website>PC Invasion</website>
+			<link>https://www.pcinvasion.com/interrogation-you-will-be-deceived-review-question-everything//</link>
 		</quote>
 		<quote>
-			<description>HOLY SHIT SO AMAZING</description>
-			<name>Caps Guy</name>
-			<website>Angry Review</website>
-			<link>http://thispage.net/angrytube</link>
+			<description>This is a detective-noir game done right.</description>
+			<website>Game Luster</website>
+			<link>https://gameluster.com/review-interrogation-you-will-be-deceived-a-thought-provoking-and-challenging-detective-noir/</link>
+		</quote>
+		<quote>
+			<description>This is a detective-noir game done right.</description>
+			<website>Game Luster</website>
+			<link>https://gameluster.com/review-interrogation-you-will-be-deceived-a-thought-provoking-and-challenging-detective-noir/</link>
+		</quote>
+		<quote>
+			<description>Do you Expect Me to Talk?</description>
+			<name>Many a True Nerd</name>
+			<link>https://www.youtube.com/watch?v=P6ok8lAxZJI</link>
 		</quote>
 	</quotes> -->
 
@@ -122,8 +177,8 @@
 	<additionals>
 		<additional>
 			<title>Additional team photos</title>
-			<description>Photos of us and our mascot at events or just generally together.</description>
-			<link>https://drive.google.com/drive/folders/0B_LYXeVGf4gVbUpwYVoxd2xIRGM</link>
+			<description>Photos of us at events or just generally together.</description>
+			<link>https://www.facebook.com/pg/critiquegaming/photos/?ref=page_internal</link>
 		</additional>
 		<additional>
 			<title>Company LinkedIn</title>
@@ -158,17 +213,12 @@
 			<role>Programming, Sound Design, Animation</role>
 		</credit>
 		<credit>
-			<person>Yanna Zosmer</person>
-			<role>Art, Graphics</role>
+			<person>Moise Theodor</person>
+			<role>Art, Business Admin</role>
 		</credit>
 		<credit>
 			<person>Mădălina Șoimu</person>
 			<role>Art, Graphics</role>
-		</credit>
-		<credit>
-			<person>Dora Marian</person>
-			<role>Art, Graphics</role>
-			<website>https://www.behance.net/DoraMarian</website>
 		</credit>
 	</credits>
 
