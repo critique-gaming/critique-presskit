@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- example file containing base tags -->
 
-<game>
+<company>
 	<title>Critique Gaming</title>
 	<founding-date>August 2, 2016</founding-date>
 	<website>https://critique-gaming.com</website>
@@ -244,4 +244,4 @@
 			<link>https://critique-gaming.com</link>
 		</contact>
 	</contacts>
-</game>
+</company>
