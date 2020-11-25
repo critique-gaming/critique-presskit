@@ -2,7 +2,9 @@
 
 <product>
 	<title>Domains of Dusk</title>
-	<website>https://store.steampowered.com/app/1462290/Domains_of_Dusk/</website>
+	<website>
+		https://store.steampowered.com/app/1462290/Domains_of_Dusk/
+	</website>
 
 	<release-dates>
 		<release-date>At Dusk</release-date>
@@ -10,7 +12,7 @@
 
 	<platforms>
 		<platform>
-			<name>PC / Mac / Linux / Ipad</name>
+			<name>Windows / macOS / Linux / iPad</name>
 		</platform>
 		<platform>
 			<name>Steam</name>
@@ -49,6 +51,7 @@
 		<trailer>
 			<name>Teaser trailer</name>
 			<youtube>hcMdoEs9m6g</youtube>
+		</trailer>
 	</trailers>
 
 	<additionals>
