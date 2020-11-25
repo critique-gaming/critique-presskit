@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<product>
+	<title>Domains of Dusk</title>
+	<website>https://store.steampowered.com/app/1462290/Domains_of_Dusk/</website>
+
+	<release-dates>
+		<release-date>At Dusk</release-date>
+	</release-dates>
+
+	<platforms>
+		<platform>
+			<name>PC / Mac / Linux / Ipad</name>
+		</platform>
+		<platform>
+			<name>Steam</name>
+			<link>https://store.steampowered.com/app/1462290/Domains_of_Dusk/</link>
+		</platform>
+	</platforms>
+
+	<prices>
+		<price>
+			<currency>USD</currency>
+			<value>TBA</value>
+		</price>
+	</prices>
+
+	<description>
+		A contemporary urban-mystical grand-strategy RPG, D.o.D. takes the genre's elements and streamlines them to facilitate meaningful roleplay. Players take the role of a Mage Club Founder, a Vampire Lord, a Warewolf Pack Alpha, a Head of a Unit of Hunters or a leader of any other faction of super-natural creatures, fighting for influence over a city. Turmoils within their ranks, opponent factions and trecherous allies won't make it easy. 
+
+		Set in real-world cities, narrative emergence, social critique and the development of the player's Leader Character are fostered through the interplay between the whims of realistic procedural characters, context-generated story events, deep diplomatic gameplay and socio-cultural urban simulation. 
+
+		All these invite rich replayability, endless content expansion possibilities, the comfort of contained playthroughs and multiplayer.
+	</description>
+
+	<history>
+		Domains of Dusk is a game we've been planning on making for a loooong time, and now we finally decided to give it a shot. 
+	</history>
+
+	<features>
+		<feature>gritty urban vibes, with dark humour, hard decisions and supernatural clashes</feature>
+		<feature>high replayability strategy gameplay with multiple factions and maps</feature>
+		<feature>RPG decision-making and new stories emerging every playthrough</feature>
+		<feature>Multiplayer and upcoming expansive content</feature>
+		<feature>Realistic socio-cultural renditions of real-world </feature>
+	</features>
+
+	<trailers>
+		<trailer>
+			<name>Teaser trailer</name>
+			<youtube>hcMdoEs9m6g</youtube>
+	</trailers>
+
+	<additionals>
+		<additional>
+			<title>Game Design Document</title>
+			<description>It's a strategy-RPG blend, so we thought you all may want to know how that works.</description>
+			<link>https://drive.google.com/file/d/1eCKvV-e-U8V40OcU72ZkMNVvd5d6qc9w/view?usp=sharing</link>
+		</additional>
+	</additionals>
+
+	<contacts>
+		<contact>
+			<name>Inquiries</name>
+			<mail>office@critique-gaming.com</mail>
+		</contact>
+		<contact>
+			<name>Request a press copy</name>
+			<mail>office@critique-gaming.com</mail>
+		</contact>
+				<contact>
+			<name>Discord</name>
+			<link>TBA</link>
+		</contact>
+		<contact>
+			<name>Facebook</name>
+			<link>https://facebook.com/Domains-of-Dusk-107039351209002</link>
+		</contact>
+	</contacts>
+
+	<credits>
+		<credit>
+			<person>Andrei “Dexter” Olaru</person>
+			<role>Producer, Marketing</role>
+			<website>https://www.linkedin.com/in/olaruandreidan</website>
+		</credit>
+		<credit>
+			<person>Marius Petcu</person>
+			<role>Game Developer</role>
+			<website>petcu.me</website>
+		</credit>
+		<credit>
+			<person>David Moscovici</person>
+			<role>Game Design, Writing</role>
+			<website>https://www.linkedin.com/in/david-moscovici-56794161</website>
+		</credit>
+		<credit>
+			<person>Dragoș “Dexi” Antoniu</person>
+			<role>Music, Sound Design</role>
+			<website>https://soundcloud.com/dexiantoniu</website>
+		</credit>
+		<credit>
+			<person>Cătălin Nedeluș</person>
+			<role>Programming, Sound Design, Animation</role>
+		</credit>
+		<credit>
+			<person>Mădălina Șoimu</person>
+			<role>Art, Graphics</role>
+		</credit>
+		<credit>
+			<person>Moise Theodor</person>
+			<role>Business Admin, Art</role>
+		</credit>
+	</credits>
+</product>
