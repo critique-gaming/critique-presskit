@@ -32,11 +32,11 @@
 	<histories>
 		<history>
 			<header>Dexter</header>
-			<text>Andrei “Dexter” Olaru is the captain of Critique Gaming. An economist and career debater with international results, he’s the entrepreneurial spirit of the team, handling project and team management, wrangling needed resources.</text>
+			<text>Andrei “Dexter” Olaru is the captain of Critique Gaming. An economist and career academic debater with international results, he’s the entrepreneurial spirit of the team, handling project and team management, wrangling needed resources.</text>
 		</history>
 		<history>
 			<header>Marius</header>
-			<text>Marius Petcu studies in the Bucharest Polytechnic. With artistic spirit and a background in debating, he’s the team’s programmer. He makes sure the abstract thoughts and ideas of the team take tangible form, supple and interactive on the player’s screen.</text>
+			<text>Marius Petcu studies in the Bucharest Polytechnic University. With artistic spirit and a background in academic debating, he’s the team’s programmer. He makes sure the abstract thoughts and ideas of the team take tangible form, supple and interactive on the player’s screen.</text>
 		</history>
 		<history>
 			<header>Moise</header>
@@ -45,11 +45,11 @@
 		</history>
 		<history>
 			<header>David</header>
-			<text>David Moscovici has a master’s degree in law, is grumpy, is a trainer and career debater and is the team’s game designer. He writes the narrative content, insures the balance and dynamics of game mechanics and handles the creative direction of the games.</text>
+			<text>David Moscovici has a master’s degree in law, is grumpy, is a trainer and career academic debater and is the team’s game designer. He writes the narrative content, insures the balance and dynamics of game mechanics and handles the creative direction of the games.</text>
 		</history>
 		<history>
 			<header>Dexi</header>
-			<text>Dragos “Dexi” Antoniu is an economist but his soul is in music. Passionate about contemporary popular art, he creates the sounds and soundtracks for Critique Gaming.</text>
+			<text>Dragos “Dexi” Antoniu is an Economics graduate but his soul is in music. Passionate about contemporary popular art, he creates the sounds and soundtracks for Critique Gaming as well as leading all marketing efforts.</text>
 		</history>
 		<history>
 			<header>Cătălin</header>
@@ -58,6 +58,18 @@
 		<history>
 			<header>Mădălina</header>
 			<text>Completing our art team, Mădălina Șoimu is a Computer Science student. She has a knack for smart video games and for drawing art for them.</text>
+		</history>
+		<history>
+			<header>Cristian</header>
+			<text>Easily confessing his love of life, Cristian is a Computer Science graduate that seeks the light in RPG games, indie games and programming.</text>
+		</history>
+		<history>
+			<header>Alex</header>
+			<text>placeholder</text>
+		</history>
+		<history>
+			<header>Victor</header>
+			<text>placeholder</text>
 		</history>
 	</histories>
 
@@ -204,8 +216,8 @@
 			<website>https://www.linkedin.com/in/david-moscovici-56794161</website>
 		</credit>
 		<credit>
-			<person>Dragoș “Dexi” Antoniu</person>
-			<role>Music, Sound Design</role>
+			<person>Dragoș Dexi Antoniu Stoica</person>
+			<role>Music, Sound Design, Marketing</role>
 			<website>https://soundcloud.com/dexiantoniu</website>
 		</credit>
 		<credit>
@@ -219,6 +231,18 @@
 		<credit>
 			<person>Mădălina Șoimu</person>
 			<role>Art, Graphics</role>
+		</credit>
+		<credit>
+			<person>Alexandru Bergauer</person>
+			<role>Game Developer</role>
+		</credit>
+		<credit>
+			<person>Victor Bajan</person>
+			<role>Game Developer</role>
+		</credit>
+		<credit>
+			<person>Cristian Prodan</person>
+			<role>Game Developer</role>
 		</credit>
 	</credits>
 
