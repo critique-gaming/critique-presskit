@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <product>
-	<title>Good Morning <A class="I"></A></title>
+	<title>Good Morning AI <A class="I"></A></title>
 	<website>
 		https://store.steampowered.com/app/1791900/Good_Morning_AI/
 	</website>
@@ -69,10 +69,6 @@
 			<name>Discord</name>
 			<link>TBA</link>
 		</contact>
-		<contact>
-			<name>Facebook</name>
-			<link>https://facebook.com/Domains-of-Dusk-107039351209002</link>
-		</contact>
 	</contacts>
 
 	<credits>
@@ -92,8 +88,8 @@
 			<website>https://www.linkedin.com/in/david-moscovici-56794161</website>
 		</credit>
 		<credit>
-			<person>Dragoș “Dexi” Antoniu</person>
-			<role>Music, Sound Design</role>
+			<person>Dragoș Dexi Antoniu Stoica</person>
+			<role>Music, Sound Designm Marketing</role>
 			<website>https://soundcloud.com/dexiantoniu</website>
 		</credit>
 		<credit>
@@ -107,6 +103,18 @@
 		<credit>
 			<person>Moise Theodor</person>
 			<role>Business Admin, Art</role>
+		</credit>
+		<credit>
+			<person>Vlad Bărbieru</person>
+			<role>3D & 2D Artist</role>
+		</credit>
+		<credit>
+			<person>Victor Băjan</person>
+			<role>Writer</role>
+		</credit>
+		<credit>
+			<person>Alex Bergauer</person>
+			<role>Writer</role>
 		</credit>
 	</credits>
 </product>
