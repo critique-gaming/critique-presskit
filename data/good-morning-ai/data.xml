@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 
 <product>
-	<title>Good Morning AI <A class="I"></A></title>
+	<title>Good Morning A.I.</title>
 	<website>
-		https://store.steampowered.com/app/1791900/Good_Morning_AI/
+		https://store.steampowered.com/app/1791900/
 	</website>
 
 	<release-dates>
@@ -16,7 +16,7 @@
 		</platform>
 		<platform>
 			<name>Steam</name>
-			<link>https://store.steampowered.com/app/1791900/Good_Morning_AI/</link>
+			<link>https://store.steampowered.com/app/1791900/</link>
 		</platform>
 	</platforms>
 
@@ -28,13 +28,13 @@
 	</prices>
 
 	<description>
-		Good Morning A.I is a narrative experience that combines the flow of a visual novel with base-building/puzzle elements, leaving players to roleplay Jude and influence the outcome of their friendships, Amsterdam and possibly even the entire world. Over 30 endings wait to be discovered. 
+		Good Morning A.I is a narrative experience that combines the flow of a visual novel with base-building/puzzle elements, leaving players to roleplay Jude and influence the outcome of their friendships, Amsterdam and possibly even the entire world. Over 30 endings wait to be discovered.
 
-		Set in the year 2065, the game revolves around a controversial decision taken by the citizens of Amsterdams to commission the first general purpose A.I. to administer the city. Jude, our story's protagonist is the expert tasked with teaching the A.I. about life, politics, morality, philosophy, economics. Through Jude, players can apply their own beliefs upon the world and see what mark they leave, how the world gets reshaped.  
+		Set in the year 2065, the game revolves around a controversial decision taken by the citizens of Amsterdams to commission the first general purpose A.I. to administer the city. Jude, our story's protagonist is the expert tasked with teaching the A.I. about life, politics, morality, philosophy, economics. Through Jude, players can apply their own beliefs upon the world and see what mark they leave, how the world gets reshaped.
 
-		Moreover, Jude has an active social life which might (or might not) influence their work. The game features a cast of interesting characters that face the issues imposed by a likely future, neither dystopian (cyberpunk) nor utopic (solarpunk), but falling realistically right in between. 
+		Moreover, Jude has an active social life which might (or might not) influence their work. The game features a cast of interesting characters that face the issues imposed by a likely future, neither dystopian (cyberpunk) nor utopic (solarpunk), but falling realistically right in between.
 
-		On Jude's shoulders also fall some of the responsabilities of administrating the A.I. facility, imbolding the narrative pace with base-building and puzzle gameplay elements. 
+		On Jude's shoulders also fall some of the responsabilities of administrating the A.I. facility, imbolding the narrative pace with base-building and puzzle gameplay elements.
 	</description>
 
 	<history>
@@ -105,7 +105,7 @@
 		</credit>
 		<credit>
 			<person>Vlad Bărbieru</person>
-			<role>3D & 2D Artist</role>
+			<role>3D &amp; 2D Artist</role>
 		</credit>
 		<credit>
 			<person>Victor Băjan</person>
